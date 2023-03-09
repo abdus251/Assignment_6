@@ -1,0 +1,39 @@
+#heading{text-align: center;
+    color: #111111;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    padding-top: 10px;
+    margin-left:10px;
+}
+#btn-sort{
+    text-align: center;
+    align-items: center;
+    margin-left:555px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
+.card-title{
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #111111;
+}
+.footer-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #111111;
+}
+#btn-see-more{
+    margin-left:590px;
+    margin-top: 30px;
+    background-color: #EB5757;
+    padding:
+}
